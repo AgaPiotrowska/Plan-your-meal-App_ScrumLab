@@ -1,0 +1,545 @@
+{
+  "user": {},
+  "recipes": [
+    {
+      "name": "zupa ogórkowa",
+      "description": "test",
+      "steps": [
+        "wlej wodę do garnka"
+      ],
+      "ingredients": [
+        "ogórki"
+      ],
+      "id": 3
+    },
+    {
+      "name": "krupnik",
+      "description": "opis krupniku",
+      "steps": [
+        "wlej wodę"
+      ],
+      "ingredients": [
+        "Pomidory"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "zdhgdfhd",
+      "description": "Pyszna zupa pomidorowa z całych pomidorów.",
+      "steps": [
+        "Wlej wodę do garnka"
+      ],
+      "ingredients": [
+        "Pomidory"
+      ]
+    }
+  ],
+  "schedules": [
+    {
+      "id": 1,
+      "name": "Wegetariański tydzień",
+      "description": "Długi opis tygodnia bez mięsa.",
+      "weekNumber": 1,
+      "monday": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "tuesday": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "wednesday": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "thursday": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "friday": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "saturday": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "sunday": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "name": "Nowy plan",
+      "description": "Opis nowego planu",
+      "weekNumber": "2",
+      "monday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "tuesday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "wednesday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "thrusday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "friday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "saturday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "sunday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "id": 5
+    },
+    {
+      "name": "fgjkfr",
+      "description": "dfghjd",
+      "weekNumber": "54",
+      "monday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "tuesday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "wednesday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "thrusday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "friday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "saturday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "sunday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "id": 6
+    },
+    {
+      "name": "fgjkfr",
+      "description": "dfghjd",
+      "weekNumber": "54",
+      "monday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "tuesday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "wednesday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "thursday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "friday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "saturday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "sunday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "id": 7
+    },
+    {
+      "name": "fgjkfr",
+      "description": "dfghjd",
+      "weekNumber": "54",
+      "monday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "tuesday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "wednesday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "thursday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "friday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "saturday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "sunday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "id": 8
+    },
+    {
+      "name": "fgjkfr",
+      "description": "dfghjd",
+      "weekNumber": "54",
+      "monday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "tuesday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "wednesday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "thursday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "friday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "saturday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "sunday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "id": 9
+    },
+    {
+      "name": "fgjkfr",
+      "description": "dfghjd",
+      "weekNumber": "54",
+      "monday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "id": 2
+    },
+    {
+      "name": "plan z wybranymi pozycjami",
+      "description": "test3",
+      "weekNumber": "4",
+      "monday": [
+        "1",
+        "Jedzenie",
+        "3",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "tuesday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "wednesday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "thursday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "friday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "saturday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "sunday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "id": 10
+    },
+    {
+      "name": "nowy",
+      "description": "test",
+      "weekNumber": "52",
+      "monday": [
+        "1",
+        "2",
+        "2",
+        "1",
+        "2"
+      ],
+      "tuesday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "wednesday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "thursday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "friday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "saturday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "sunday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "id": 11
+    },
+    {
+      "name": "nowy 2",
+      "description": "test ",
+      "weekNumber": "2",
+      "monday": [
+        "Jedzenie",
+        "Zupa pomidorowa",
+        "Jajecznica",
+        "zdhgdfhdffffffffff",
+        "Jedzenie"
+      ],
+      "tuesday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "wednesday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "thursday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "friday": [
+        "Jedzenie",
+        "3",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "saturday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ],
+      "sunday": [
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie",
+        "Jedzenie"
+      ]
+    }
+  ]
+}
